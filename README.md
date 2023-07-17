@@ -1,5 +1,8 @@
 # 💫 About Me:
-I have a confession to make, I have a bachelor's degree in computer science and I love my field. I have been working with the Python programming language for several years, which helped me a lot in machine learning, deep learning, and paved my way to learn newer knowledge such as reinforcement learning...<br>   I love learning and discovering new techs and areas for growing my knowledge and even developing my social or colaborating skills. Overall, I would be a valuable addition to any team working in these areas.
+Hi there! My name is Nima Sharifkazemi, and I'm a computer science graduate with a deep passion for technology and innovation. I hold a bachelor's degree in computer science and have gained extensive experience in working with the Python programming language. Over the years, I have honed my skills in machine learning, deep learning, and more recently, reinforcement learning. I'm constantly exploring new technologies and techniques to further my knowledge and contribute to innovative projects.
+
+In addition to my technical skills, I'm a strong believer in collaboration and communication. I believe that effective teamwork is key to success in any project, and I'm always looking for opportunities to build my social and collaborative skills. Whether it's working on a complex project or collaborating with a team to develop new solutions, I'm passionate about making a positive impact through technology.
+
 
 
 ## 🌐 Socials:
