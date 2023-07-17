@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have a confession to make, I have a bachelor's degree in computer science and I love my field. I have been working with the Python programming language for several years, which helped me a lot in machine learning, deep learning, and paved my way to learn newer knowledge such as reinforcement learning...<br>   I am passionate about these technologies and I am passionate about learning and discovering new areas for personal and social development. Overall, I would be a valuable addition to any team working in these areas.
+I have a confession to make, I have a bachelor's degree in computer science and I love my field. I have been working with the Python programming language for several years, which helped me a lot in machine learning, deep learning, and paved my way to learn newer knowledge such as reinforcement learning...<br>   I love learning and discovering new techs and areas for growing my knowledge and even developing my social or colaborating skills. Overall, I would be a valuable addition to any team working in these areas.
 
 
 ## 🌐 Socials:
